@@ -1,0 +1,24 @@
+{
+  "name": "playwright-tracewatch",
+  "version": "1.0.0",
+  "description": "▎ Selector health observability for Playwright test suites. Tracks locator stability over CI runs, surfaces at-risk selectors before they break your pipeline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishnasameeth/playwright-tracewatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishnasameeth/playwright-tracewatch/issues"
+  },
+  "homepage": "https://github.com/krishnasameeth/playwright-tracewatch#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "typescript": "^6.0.3"
+  }
+}
